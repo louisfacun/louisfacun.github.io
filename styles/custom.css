@@ -1,5 +1,8 @@
 html, body {
   font-family: Consolas;
-  margin: 0;
-  padding: 10px;
+  max-width: 700px;
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 20px 0 20px;
 }
