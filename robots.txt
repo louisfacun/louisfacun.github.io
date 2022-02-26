@@ -1,5 +1,4 @@
-User-agent: Googlebot
+User-agent: *
 Allow: /
 
-
-Sitemap: https://louisfacun.com/sitemap.txt
+Sitemap: https://www.louisfacun.com/sitemap.txt
