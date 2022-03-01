@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.louisfacun.com/sitemap.txt
+Sitemap: https://louisfacun.com/sitemap.txt
