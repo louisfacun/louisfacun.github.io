@@ -1,4 +1,4 @@
-html, body {
+h1, h2 {
   font-family: Consolas;
   max-width: 700px;
   margin-left: auto;
@@ -6,6 +6,6 @@ html, body {
   padding: 0 20px 0 20px;
 }
 
-p {
-  font-family: "Segoe UI";
+p, ul {
+  font-family: "Segoe UI", Arial, sans-serif!important;
 }
