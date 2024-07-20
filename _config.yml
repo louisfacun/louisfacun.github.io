@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Louis Facun"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/louis-facun-bio-photo.jpg"
   bio    : "Software developer"
   links:
     - label: "Website"
