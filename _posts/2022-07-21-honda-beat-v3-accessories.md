@@ -1,25 +1,41 @@
 ---
-title: "Honda Beat V3 Accessories"
+title: "Best Honda Beat V3 Accessories 2024"
 categories:
   - Other
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - Honda Beat V3
+  - Motorcycle
 ---
 
-# Bar Ends
+## Intro
 
-## ARM Handle Bar End CNC
+Here are some of the best accessories that are proven compatible for Honda Beat V3 that you can buy right now:
 
-Plug and play: Yes
+## Bar Ends
 
-Shopee: https://s.shopee.ph/9zdXbG5jtD
-Lazada: Not available
+### ARM Handle Bar End CNC
 
-## Stainless Bar End
+Installation: Plug and play
 
-Plug and play: Yes
+- [Shopee](https://s.shopee.ph/9zdXbG5jtD)
+- ~~Lazada~~
 
-Shopee: https://s.shopee.ph/9zdXbG5jtD
-Lazada: Not available
+### Stainless Bar End
+
+Installation: Plug and play
+
+- [Shopee](https://s.shopee.ph/9zdXbG5jtD)
+- ~~Lazada~~:
+
+## MDL
+
+## MDL Bracket
+
+## Foot Board Cover
+
+## Front Fender
+
+## Tire Hugger
+
+## Fan Spinner + Fan Cover
+
