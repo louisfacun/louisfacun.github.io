@@ -12,5 +12,14 @@ tags:
 
 ## ARM Handle Bar End CNC
 
-https://s.shopee.ph/9zdXbG5jtD
+Plug and play: Yes
 
+Shopee: https://s.shopee.ph/9zdXbG5jtD
+Lazada: Not available
+
+## Stainless Bar End
+
+Plug and play: Yes
+
+Shopee: https://s.shopee.ph/9zdXbG5jtD
+Lazada: Not available
